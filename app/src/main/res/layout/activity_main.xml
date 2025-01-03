@@ -13,6 +13,7 @@
         android:layout_height="250dp"
         android:background="@color/teal_700"
         android:foreground="@drawable/logo"
+        android:onClick="onClick"
         tools:ignore="ExtraText,MissingConstraints"
         tools:layout_margin="80dp"
         tools:layout_marginVertical="100dp" />
